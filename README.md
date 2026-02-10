@@ -8,7 +8,7 @@ A simple language translator application built using the Streamlit framework and
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/language-translator.git
+https://github.com/onkar0127/Language-translator-using-python.git
 ```
 
 2. Install the required dependencies:
